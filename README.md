@@ -80,7 +80,7 @@ Esses cálculos complementam a decisão final, garantindo maior segurança no pr
 
 ## Fluxograma do processo
 
-![Fluxograma](assets/FLuxograma.png)
+![Fluxograma](assets/FLuxograma.jpeg)
 
 ---
 
