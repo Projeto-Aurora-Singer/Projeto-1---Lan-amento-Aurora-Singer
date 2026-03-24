@@ -111,7 +111,7 @@ pip install pandas
 
 ---
 
-## 📊 Exemplo de saída
+## Exemplo de saída
 
 O sistema irá exibir:
 
@@ -121,7 +121,7 @@ O sistema irá exibir:
 
 ---
 
-## 💡 Aprendizados
+## Aprendizados
 
 Durante o desenvolvimento deste projeto, foi possível compreender:
 
@@ -132,7 +132,7 @@ Durante o desenvolvimento deste projeto, foi possível compreender:
 
 ---
 
-## 🤖 Uso de Inteligência Artificial
+## Uso de Inteligência Artificial
 
 A IA foi utilizada para:
 
@@ -142,13 +142,13 @@ A IA foi utilizada para:
 
 ---
 
-## 📌 Considerações finais
+## Considerações finais
 
 Este projeto demonstra como dados podem ser utilizados para apoiar decisões críticas em contextos operacionais complexos, como sistemas aeroespaciais.
 
 ---
 
-## 👩‍💻 Autores
+## Autores
 
 * Mayara Luisa Vicente Rosa
 * Gabriel Coutinho Barcelos
