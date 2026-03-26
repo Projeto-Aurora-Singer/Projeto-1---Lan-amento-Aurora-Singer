@@ -87,20 +87,21 @@ Esses cálculos complementam a decisão final, garantindo maior segurança no pr
 
 ## Exemplo de execução
 ### Visualização inicial dos dados
-
-
+![ Visualização inicial dos dados](Visualização inicial dos dados.png)
 
 ### Verificação da estrutura dos dados
+![Verificação da estrutura dos dados](Verificação da estrutura dos dados.png)
 
 
 ### Cenário selecionado para análise
+![Cenário selecionado para análise](Cenário selecionado para análise.png)
 
 
 ### Resultado da decisão de lançamento
-
+![Resultado da decisão de lançamento](Resultado da decisão de lançamento.png)
 
 ### Cálculos energéticos
-
+![Cálculos energéticos](Cálculos energéticos.png)
 ---
 
 ## Como executar o projeto
