@@ -83,6 +83,23 @@ Esses cálculos complementam a decisão final, garantindo maior segurança no pr
 ![Fluxograma.jpeg](https://github.com/Projeto-Aurora-Singer/Projeto-1---Lan-amento-Aurora-Singer/blob/main/FLuxograma.jpeg))
 
 ---
+## Exemplo de execução
+### Visualização inicial dos dados
+
+
+
+### Verificação da estrutura dos dados
+
+
+### Cenário selecionado para análise
+
+
+### Resultado da decisão de lançamento
+
+
+### Cálculos energéticos
+
+
 
 ## Como executar o projeto
 
