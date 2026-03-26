@@ -29,10 +29,20 @@ Além disso, o projeto realiza uma análise energética para verificar se há au
 ## Estrutura do projeto
 
 ```
-Projeto-Aurora-Singer
- ┣  Projeto_Aurora_Singer.ipynb
- ┣  dataset_telemetria_sintetico_anomalias_ptbr.csv
- ┣  README.md
+Projeto-Aurora-Singer/
+│
+├── README.md
+├── Projeto_Aurora_Singer.ipynb
+├── dataset_telemetria_sintetico_anomalias_ptbr.csv
+├── AURORA_SINGER_relatorio.pdf
+│
+├── fluxograma.jpeg
+├── execucao.png
+├── visualizacao.png
+├── estrutura.png
+├── resultado.png
+└── calculos.png
+
 ```
 
 ---
@@ -87,21 +97,22 @@ Esses cálculos complementam a decisão final, garantindo maior segurança no pr
 
 ## Exemplo de execução
 ### Visualização inicial dos dados
-![ Visualização inicial dos dados](Visualização inicial dos dados.png)
+![Visualização inicial dos dados.png](https://github.com/Projeto-Aurora-Singer/Projeto-1---Lan-amento-Aurora-Singer/blob/main/%20Visualizac%CC%A7a%CC%83o%20inicial%20dos%20dados.png))
 
 ### Verificação da estrutura dos dados
-![Verificação da estrutura dos dados](Verificação da estrutura dos dados.png)
+![Verificação da estrutura dos dados](https://github.com/Projeto-Aurora-Singer/Projeto-1---Lan-amento-Aurora-Singer/blob/main/Verificac%CC%A7a%CC%83o%20da%20estrutura%20dos%20dados.png)
 
 
 ### Cenário selecionado para análise
-![Cenário selecionado para análise](Cenário selecionado para análise.png)
+![Cenário selecionado para análise](https://github.com/Projeto-Aurora-Singer/Projeto-1---Lan-amento-Aurora-Singer/blob/main/Verificac%CC%A7a%CC%83o%20da%20estrutura%20dos%20dados.png)
 
 
 ### Resultado da decisão de lançamento
-![Resultado da decisão de lançamento](Resultado da decisão de lançamento.png)
+![Resultado da decisão de lançamento](https://github.com/Projeto-Aurora-Singer/Projeto-1---Lan-amento-Aurora-Singer/blob/main/%20Resultado%20da%20decisa%CC%83o%20de%20lanc%CC%A7amento.png)
 
 ### Cálculos energéticos
-![Cálculos energéticos](Cálculos energéticos.png)
+![Cálculos energéticos](https://github.com/Projeto-Aurora-Singer/Projeto-1---Lan-amento-Aurora-Singer/blob/main/%20Ca%CC%81lculos%20energe%CC%81ticos.png)
+
 ---
 
 ## Como executar o projeto
